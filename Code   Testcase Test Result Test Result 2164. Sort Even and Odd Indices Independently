@@ -1,3 +1,12 @@
+/*
+   Author: Luis Fernando Martinez Barragan - A01613426
+   Date: 04 - 11 - 2025
+   Problema 1
+*/
+
+
+
+
 class Solution {
 public:
     vector<int> sortEvenOdd(vector<int>& nums) {
