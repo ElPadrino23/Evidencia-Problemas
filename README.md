@@ -20,6 +20,11 @@ Reconstruir el arreglo original ordenando en cada posición el siguiente valor d
 **Codigo** 
 ```
 cpp
+/*
+   Author: Luis Fernando Martinez Barragan - A01613426
+   Date: 04 - 11 - 2025
+   Problema 1
+*/
 class Solution {
 public:
     vector<int> sortEvenOdd(vector<int>& nums) {
@@ -61,6 +66,11 @@ Cuando encuentro el valor que quiero eliminar simplemente salto ese nodo, así m
 
 ```
 cpp
+/*
+   Author: Luis Fernando Martinez Barragan - A01613426
+   Date: 16 - 11 - 2025
+   Problema 1
+*/
 class Solution {
 public:
     ListNode* removeElements(ListNode* cabeza, int valorBorrar) {
@@ -110,6 +120,12 @@ cpp
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+
+/*
+   Author: Luis Fernando Martinez Barragan - A01613426
+   Date: 26 - 11 - 2025
+   Problema 1
+*/
 class BSTIterator {
 public:
     vector<int> valores;  
