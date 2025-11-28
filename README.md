@@ -5,7 +5,7 @@
 
 ### 2164. Sort Even and Odd Indices Independently
 **Problema:** [LeetCode 2164](https://leetcode.com/problems/sort-even-and-odd-indices-independently/description/)  
-**Video Explicativo:** [Ver en YouTube]()  
+**Video Explicativo:** [Ver en Drive](https://drive.google.com/file/d/1CW3bYLzwwkn2FVeRaHJyuqoR-1Q2sfui/view?usp=sharing)  
 **Solucion:** [Ver Solución](https://leetcode.com/problems/sort-even-and-odd-indices-independently/solutions/7379440/ordenacion-por-separado-by-luisfer006-as6f)
 
 **Estrategia:**
@@ -48,7 +48,7 @@ public:
 ### 203. Remove Linked List Elements
 
 **Problema:** [LeetCode 2164](https://leetcode.com/problems/remove-linked-list-elements/description/)  
-**Video Explicativo:** [Ver en YouTube]()  
+**Video Explicativo:** [Ver en Drive](https://drive.google.com/file/d/1bOYX_HWZW-iQ8wF9q5ctSFekFzT6IVAu/view?usp=sharing)  
 **Solucion:** [Ver Solución](https://leetcode.com/problems/remove-linked-list-elements/solutions/7379472/eliminacion-de-nodos-con-valor-especific-6dp5)
 
 **Estrategia:**
@@ -86,7 +86,7 @@ public:
 
 ### 173. Binary Search Tree Iterator
 **Problema:** [LeetCode 2164](https://leetcode.com/problems/binary-search-tree-iterator/description/)  
-**Video Explicativo:** [Ver en YouTube]()  
+**Video Explicativo:** [Ver en Drive](https://drive.google.com/file/d/1MSRsMhcMhAgh9irfbmnmmnzvkG5kl1ic/view?usp=sharing)  
 **Solucion:** [Ver Solución](https://leetcode.com/problems/binary-search-tree-iterator/solutions/7379505/iterador-de-bst-by-luisfer006-gfco)
 
 **Estrategia:**
